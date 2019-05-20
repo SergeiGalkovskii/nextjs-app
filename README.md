@@ -1,4 +1,4 @@
-# nextjs-github-users
+# nextjs-app
 
 ## Development
 
